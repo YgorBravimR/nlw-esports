@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
- <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=ED2590&labelColor=5292C1" alt="License">
+ <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=111111&labelColor=5292C1" alt="License">
   
   <img src="https://img.shields.io/github/forks/birobirobiro/hubkut?label=forks&message=MIT&color=ED2590&labelColor=5292C1" alt="Forks">
 
