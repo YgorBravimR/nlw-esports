@@ -30,9 +30,11 @@
 ## 🚧 Projeto
 
 Live Preview: https://hubkut.vercel.app/
-<br> <br>
-<img alt="" src=".github/NlwEsportsMobileGif.gif" width="20%" align="center">
-<img alt="" src=".github/NlwEsportsWebGif.gif" width="75%" align="center">
+<br><br>
+<h3 align="center"> 
+  <img alt="" src=".github/NlwEsportsMobileGif.gif" width="20%" align="center">
+  <img alt="" src=".github/NlwEsportsWebGif.gif" width="75%" align="center">
+</h3>
 
 
 ## ⚙️ Project Running:
