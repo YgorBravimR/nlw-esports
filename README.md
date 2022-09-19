@@ -11,10 +11,15 @@
 <p align="center">
  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=633BBC&labelColor=E2D45C" alt="License">
   
-  <img src="https://img.shields.io/github/forks/YgorBravimR/nlw-esports?label=forks&message=MIT&color=633BBC&labelColor=E2D45C" alt="Forks">
+  <img src="https://img.shields.io/github/forks/YgorBravimR/nlw-esports?label=forks&color=633BBC&labelColor=E2D45C" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/YgorBravimR/nlw-esports?label=stars&message=MIT&color=633BBC&labelColor=E2D45C " alt="Stars">
+  <img src="https://img.shields.io/github/stars/YgorBravimR/nlw-esports?label=stars&color=633BBC&labelColor=E2D45C " alt="Stars">
 </p>
+
+## 📖 Sobre
+
+Projeto desenvolvido durante o evento NLW (Next Level Week) da Rocketseat, trilha ignite. <br>
+Durante uma semana, foi desenvolvido um projeto completo, incluindo FrontEnd Web utilizando o React com TypeScript, Mobile com React Native e o BackEnd de ambas aplicações com NodeJs. 
 
 ## 🚀 Tecnologias
 
@@ -35,13 +40,6 @@ Live Preview: https://hubkut.vercel.app/
   <img alt="" src=".github/NlwEsportsMobileWebGif.gif" width="100%" align="center">
 </h3>
 
-
-## ⚙️ Project Running:
-
-Figma: https://www.figma.com/community/file/1105860543512658494
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
+
+Feito por <strong><a href="http://github.com/YgorBravimR">Ygor Bravim </a></strong> com auxílio da <strong><a href="https://www.rocketseat.com.br/">RocketSeat</a></strong>🚀
