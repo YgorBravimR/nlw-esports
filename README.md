@@ -31,7 +31,7 @@
 
 Live Preview: https://hubkut.vercel.app/
 <br> <br>
-<img alt="" src=".github/NlwEsportsMobile_AdobeExpress (1).gif" width="20%" align="center">
+<img alt="" src=".github/NlwEsportsMobileGif.gif" width="20%" align="center">
 <img alt="" src=".github/NlwEsportsWebGif.gif" width="75%" align="center">
 
 
